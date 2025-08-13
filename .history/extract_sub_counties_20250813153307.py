@@ -18,7 +18,7 @@ try:
         # Iterate over each row in the input file
         for row in reader:
             # Assuming 'COUNTY NAME' is the second column (index 1)
-            if row[0] in counties_to_keep:
+            if row[1].upper() in counties_to_keep:
                 # Modify first both columns to be uppercase
                 row[0] = row[0].upper()
                 row[1] = row[1].upper()
