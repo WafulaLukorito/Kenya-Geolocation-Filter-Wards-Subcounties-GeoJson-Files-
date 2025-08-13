@@ -1,0 +1,158 @@
+{
+  "MERU": {
+    "Igembe South": [
+      "Maua",
+      "Kiegoi/antubochiu",
+      "Athiru gaiti",
+      "Akachiu",
+      "Kanuni"
+    ],
+    "Igembe Central": [
+      "Akirang'ondu",
+      "Athiru ruujine",
+      "Kiengu/Igembe East ward",
+      "Njia",
+      "Kangeta"
+    ],
+    "Igembe North": [
+      "Antuambui",
+      "Ntunene",
+      "Antubetwe kiongo",
+      "Naathu",
+      "Amwathi"
+    ],
+    "Tigania West": [
+      "Athwana",
+      "Akithii",
+      "Kianjai",
+      "Nkomo",
+      "Mbeu"
+    ],
+    "Tigania East": [
+      "Thangatha",
+      "Mikinduri",
+      "Kiguchwa",
+      "Muthara",
+      "Karama"
+    ],
+    "Imenti North": [
+      "Municipality",
+      "Ntima east",
+      "Ntima west",
+      "Nyaki west",
+      "Nyaki east"
+    ],
+    "Buuri": [
+      "Timau",
+      "Kisima",
+      "Kiirua Naari",
+      "Ruiru Rwawera",
+      "Kibirichia"
+    ],
+    "Imenti Central": [
+      "Mwangathia",
+      "Abothuguchi central",
+      "Abothuguchi west",
+      "Kiagu"
+    ],
+    "Imenti South": [
+      "Mitunguu",
+      "Igoji east",
+      "Igoji west",
+      "Abogeta east",
+      "Abogeta west",
+      "Nkuene"
+    ]
+  },
+  "THARAKA-NITHI": {
+    "Muthambi": [
+      "Mitheru",
+      "Muthambi"
+    ],
+    "Mwimbi": [
+      "Mwimbi",
+      "Ganga",
+      "Chogoria"
+    ],
+    "Igambang'ombe": [
+      "Igambang`ombe",
+      "Mariani"
+    ],
+    "Tharaka North": [
+      "Gatunga",
+      "Mukothima"
+    ],
+    "Tharaka South": [
+      "Nkondi",
+      "Chiakagira",
+      "Marimanti"
+    ],
+    "Chuka": [
+      "Karingani",
+      "Magumoni",
+      "Mugwe"
+    ]
+  },
+  "KIRINYAGA": {
+    "Kirinyaga North/Mwea West": [
+      "Mutithi",
+      "Kangai",
+      "Thiba",
+      "Wamumu"
+    ],
+    "Kirinyaga South": [
+      "Nyangati",
+      "Murinduko",
+      "Gathigiriri",
+      "Tebere"
+    ],
+    "Kirinyaga East": [
+      "Kabare",
+      "Baragwi",
+      "Njukiine",
+      "Ngariama",
+      "Karumandi"
+    ],
+    "Kirinyaga West": [
+      "Mukure",
+      "Kiine",
+      "Kariti"
+    ],
+    "Kirinyaga Central": [
+      "Mutira",
+      "Kanyekini",
+      "Kerugoya",
+      "Inoi"
+    ]
+  },
+  "EMBU": {
+    "Mbeere North": [
+      "Muminji",
+      "Evurore",
+      "Nthawa"
+    ],
+    "Manyatta": [
+      "Ruguru-Ngandori",
+      "Kithimu",
+      "Nginda",
+      "Mbeti north",
+      "Kirimari",
+      "Gaturi south",
+      "Gaturi north"
+    ],
+    "Runyenjes": [
+      "Kaagari South",
+      "Central ward",
+      "Kaagari North",
+      "Kyeni north",
+      "Kyeni south"
+    ],
+    "Mbeere South": [
+      "Mwea",
+      "Makima",
+      "Mbeti south",
+      "Mavuria",
+      "Kiambere"
+    ]
+  }
+}
